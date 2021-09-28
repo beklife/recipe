@@ -9,15 +9,18 @@ h1 {
 background-color: #5b5;
 color: white;
 text-align: center;
+font-size: 4rem;
 }
 
 h2 {
 border: thin solid #5b5;
 border-top: thick solid #5b5;
 padding-left: 0.25em;
+font-size: 3rem;
 }
 
 ul, ol {
+font-size: 2rem;
 padding-left: 1.5em;
 }
 
