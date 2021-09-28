@@ -30,7 +30,10 @@ list-style-type: circle;
 
 p#servings {
 font-style: italic;
-font-size: 3rem;
+}
+
+p {
+    font-size: 3rem;
 }
 
 
